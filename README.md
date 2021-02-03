@@ -12,5 +12,5 @@ Other than `make`, `pkg-config` and a working C99 or C++ compiler, you'll need
 
 ## Running
 
-    ./sdlarch <core> <uncompressed content>
+    ./sdlarch <core> <content>
 
